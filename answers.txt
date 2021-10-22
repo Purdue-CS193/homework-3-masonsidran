@@ -2,7 +2,6 @@ Part 1: Finish this homework on time!
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+This command downloads the contents of a repository.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
